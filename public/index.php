@@ -18,7 +18,7 @@ $posts = $query->fetchAll(); // la variable posts va contenu de  tout les result
 <header class="head">
 
 
-<a href="http://localhost:8000/index.php" class="button">Ayoub-BLOG</button>
+<a href="http://localhost:8000/index.php" class="button">ZAKI-BLOG</button>
 
 
 
