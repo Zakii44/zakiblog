@@ -1,0 +1,154 @@
+* { 
+    
+    margin: 0px;
+    position: relative;
+}
+
+html {
+    
+    height: 100%; box-sizing: border-box;
+}
+
+   
+
+
+.body{
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: lightcyan;
+    position: relative;
+   
+}
+
+.article{
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    background: lightgray; 
+   
+}
+
+
+.head {
+    background: lightgrey;
+    padding: 20px;
+    height: auto;
+    color: rgb(83, 69, 69);
+
+}
+
+.footer{
+
+    text-align: center;
+    background: darkblue;
+    color: salmon;
+    font-weight: bolder;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+.new_article {
+
+margin: auto;
+background: brown;
+
+ 
+ 
+}
+
+.title{
+
+    width: 500px;
+}
+.textarea{
+    width: 500px;
+    height: 200px;
+}
+
+.form {
+    margin-top: 10%;
+    background:lightyellow;
+    width:100%;
+    height: 100%;
+    text-align: center;
+    }
+
+
+.comment{
+
+    text-align: center;
+    padding: 50px;
+    background: lightgray;
+
+
+}
+.comments{
+
+    padding: 20px;
+    background: rgb(150, 138, 170);
+}
+
+.input_author{
+
+    
+    width: 200px;
+
+}
+
+
+.send{
+
+    width: auto;
+   
+}
+
+.text_com{
+
+    height: 100px;
+    width: 300px;
+}
+
+.article_post{
+
+
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    background: lightyellow; 
+    height: 100%;
+}
+.article_post p{
+    margin-top: 20%;
+}
+
+.button {
+   
+        color: lightyellow;
+        font-weight: lighter;
+        background: #3f51a0;
+        text-decoration: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        
+  
+}
+.artikeulz{
+
+    height: 100%;
+    background: lightgrey;
+}
+
+.navv a {
+
+    position: absolute;
+    right: 0;
+    top: 0;
+   
+}
+
